@@ -1,0 +1,14 @@
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\bin\Debug\netcoreapp3.1\Stringtask.exe
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\bin\Debug\netcoreapp3.1\Stringtask.deps.json
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\bin\Debug\netcoreapp3.1\Stringtask.runtimeconfig.json
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\bin\Debug\netcoreapp3.1\Stringtask.runtimeconfig.dev.json
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\bin\Debug\netcoreapp3.1\Stringtask.dll
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\bin\Debug\netcoreapp3.1\Stringtask.pdb
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.csproj.AssemblyReference.cache
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.AssemblyInfoInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.AssemblyInfo.cs
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.dll
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.pdb
+C:\Users\Orkhan\OneDrive\Desktop\String\Stringtask\Stringtask\obj\Debug\netcoreapp3.1\Stringtask.genruntimeconfig.cache
